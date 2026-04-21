@@ -1,4 +1,4 @@
-# Project Title  
+# Analog Theremin
 
 ## Introduction
 This document is intended to provide a comprehensive overview of our project's developments and serve as a reference tool for new members joining our team.
@@ -10,16 +10,21 @@ This report serves two primary functions:
 
 ## About the Project
 
-* Project Title:  
-* Project Purpose:  
+* Project Title:  Analog Theremin
+* Project Purpose:  Create a musical Theremin using an analog circuit.
 * Brief Description:  
 * Contributors Involved: (People who worked on the report)  
-* Git Repo Link:
+* Git Repo Link: [https://github.com/TBC-Projects/Theremin/](https://github.com/TBC-Projects/Theremin/)
 
 ## Accomplishments
 
-* Deliverables:  
+* Deliverables:
+    * Schematic
+    * Parts list
+    * Digital twin (LTSpice or Simulink)
+    * Prototype theremin for testing
 * Outcome:
+    * Fully functional theremin with analog pitch and volume control for each of four groups
 
 ## Challenges Faced
 
@@ -38,12 +43,9 @@ This report serves two primary functions:
 
 * Key files, photos, figures, algorithms  
 * Software/platforms used, and their purpose  
-  * Examples:  
-  * Autodesk Fusion: 3D Modeling  
-  * Dremel DigiLab: Slicing and 3d Printing  
-  * Arduino IDE: Microcontroller Programming  
-* For software projects, include languages used  
-  * E.g. MATLAB, C, Java, SystemVerilog, ArduinoC  
+  * LTSpice: Circuit Design
+  * Simulink: System Design
+  * Oscilloscope and Signal Generator: Lab Testing
 
 ## Other Information
 
@@ -53,11 +55,11 @@ This report serves two primary functions:
   * CoE \- College of Engineering  
   * ECE \- Electrical and Computer Engineering  
 * Team Roles (People who worked on the project)  
-  * John Doe  
-    * Lead developer  
-  * Jane Doe  
-    * Lead tester  
-  * Kevin Sandwich  
-    * Circuit Builder  
-  * Goblin Sanchez  
-    * In Training
+  * Sam Mansouri
+    * Project Lead  
+  * Nathan Joslin
+    * Technical Lead
+  * Andrew Bechtel
+    * Team Lead
+  * Zane Raissis
+    * Team Lead
